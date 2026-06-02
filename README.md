@@ -14,10 +14,14 @@
 - I build things. I break them. Then I build them better.
 - Currently deep in DSA, Full Stack (Python · Java · JS · React · Node) and AI Agents & LLM prompting.
 - I don't wait until I'm ready — I figure it out by doing.
+
+
 - 🔩 DSA + Systems
 - 🤖 AI Agents & LLM Prompting
 - 🌐 Full Stack Dev
 - 📈 Builder over studier
+
+
 - Currently
 - → Sharpening DSA
 - → Shipping full stack projects
